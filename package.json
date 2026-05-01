@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/agent-escrow-protocol.git"
+    "url": "https://github.com/sdevkota/agent-escrow-protocol.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/agent-escrow-protocol/issues"
+    "url": "https://github.com/sdevkota/agent-escrow-protocol/issues"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/agent-escrow-protocol/"
+  "homepage": "https://sdevkota.github.io/agent-escrow-protocol/"
 }
