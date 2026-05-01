@@ -1,0 +1,30 @@
+{
+  "name": "@open-ai-civic/agent-escrow-protocol",
+  "version": "1.0.0",
+  "description": "Human approval queues for costly, risky, or irreversible agent actions. Agents need autonomy, but high-impact actions still require explainable intent, bounded authority, and auditable approval.",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "agent-escrow-protocol": "./src/cli.js"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node test/smoke.js"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "open-source",
+    "governance",
+    "safety",
+    "agent-escrow-protocol"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/agent-escrow-protocol.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/agent-escrow-protocol/issues"
+  },
+  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/agent-escrow-protocol/"
+}
